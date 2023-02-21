@@ -25,6 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farezfhmi&show_icons=true&theme=onedark&locale=en&layout=compact" alt="farezfhmi" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farezfhmi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farezfhmi&show_icons=true&theme=onedark&locale=en" alt="farezfhmi" /></p>
 
 <!---
