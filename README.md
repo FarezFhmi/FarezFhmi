@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarezFhmi
 - 👀 I’m interested in Software Development 🧑‍💻
-- 🌱 I’m currently learning Software & Application Development (language that i still learning is Java)
+- 🌱 I’m currently learning Software & Application Development
 - 💞️ I’m looking to collaborate on Software Development 
 - 📫 How to reach me by whatsapp ?
 
