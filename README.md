@@ -1,14 +1,14 @@
 ![Which _We Bare Bears_ Bear Are You Most Like_](https://user-images.githubusercontent.com/72819306/220431919-f4dc10a0-122d-4233-9f8c-2cdad1d3fc95.png)
 
 
-<h1 align="center">Hi 👋, I'm Reez</h1>
-<h3 align="center">A student in Software Development from Malaysia</h3>
+<h1 align="center">Hi 👋, I'm Farez</h1>
+<h3 align="center">A student in Software Developer from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farezfhmi&label=Profile%20views&color=0e75b6&style=flat" alt="farezfhmi" /> </p>
 
-- 🔭 I’m currently Studying in **UniSZA**
+- 🔭 I’m currently Intern at **Caction (Sales Connection)**
 
-- 🌱 I’m currently learning **Python & Go Language**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FarezFhmi](https://github.com/FarezFhmi)
 
